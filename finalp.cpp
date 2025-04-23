@@ -105,11 +105,11 @@ brainGames::brainGames()
   sleep(2);
   cout << "please choose which game you would like to start with" << endl;
   sleep(2);
-  cout << "Type 1 for: unscramble " << endl;
+  cout << "Type 1 for: Unscramble " << endl;
   sleep(2);
-  cout << "Type 2 for: Typng challenge  " << endl;
+  cout << "Type 2 for: Typing challenge  " << endl;
   sleep(2);
-  cout << "Type 3 for:  Odd One Out " << endl;
+  cout << "Type 3 for: Odd One Out " << endl;
   bool go = false;
   while(!go)                            
   {
